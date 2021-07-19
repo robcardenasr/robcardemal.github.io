@@ -1,1 +1,4 @@
 
+Host: "www" 
+Target / Canonical name: robcardemal.github.io.
+TTL: 10 min
