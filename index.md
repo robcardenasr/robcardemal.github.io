@@ -50,8 +50,7 @@ I am currently a part-time lecturer at the Economics Department of the Universid
 - **Roles, preferences and gender gaps in the small-scale seaweed aquaculture in Chile**
    <br>
   César Salazar, Mónica M. Jaime,  **Roberto Cárdenas-Retamal**, Marjorie Baquedano
- <br>
-  <strong><i style="color:#e74d3c">Under review in History of Political Economy</i></strong>
+ 
   
   
 
